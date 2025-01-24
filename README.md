@@ -1,2 +1,2 @@
 - I took the PPG stats section from the NBA stats website API and scraped the data from 2012-13 season all the way up to 2021-22 season.
-- The libraries I used included Pandas to extract the data into a table form and put it into a CSV.
+- The libraries I used included Pandas to extract the data into a table format and put it into a CSV.
