@@ -18,7 +18,7 @@ df = pd.DataFrame(columns=df_cols)
 
 # Here we want to specify the seasons from the data we want to scrape from
 season_types = ['Regular%20Season', 'Playoffs']
-years = ['2012-13', '2013-14', '2014-15', '2015-16', '2016-17', '2017-18', '2018-19', '2019-20', '2020-21', '2021-22']
+years = ['2012-13', '2013-14', '2014-15', '2015-16', '2016-17', '2017-18', '2018-19', '2019-20', '2020-21', '2021-22', '2022-23', '2023-24']
 
 # To avoid blocking from the NBA API to prove we are not a bot
 headers = {
